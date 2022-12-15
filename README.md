@@ -1,6 +1,8 @@
 # VAE-Haiku-Jax
 Simple VAE example with Jax.
+
 Using torchvision and torch.dataset as Dataloader
+
 And using haiku and jax build a VAE neural network.
 <!-- # Version
 python                    3.10.8
